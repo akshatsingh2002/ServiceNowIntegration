@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+    <name>Your Application Name</name>
+    <scope>your_scope_name</scope>
+    <description>This is a brief description of your application.</description>
+    <version>1.0.0</version>
+    <author>Your Name</author>
+    <license>Commercial</license> <!-- or "Open Source" if applicable -->
+
+    <components>
+        <component>
+            <name>Incident Management</name>
+            <type>Module</type>
+            <description>Manages incidents within the application.</description>
+        </component>
+        <component>
+            <name>Problem Management</name>
+            <type>Module</type>
+            <description>Handles problem records and analysis.</description>
+        </component>
+    </components>
+</application>
